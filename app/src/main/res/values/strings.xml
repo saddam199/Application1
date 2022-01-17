@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Application1</string>
+    <string-array name="Stories_name">
+        <item>سيارة الأجرة</item>
+        <item>نقل المواد الخطرة</item>
+        <item>نقل عمومي للبضائع</item>
+        <item>نقل حساب الخاص</item>
+        <item>نقل العمومي للمسافرين</item>
+        <item>قانون المرور المعدل</item>
+
+
+    </string-array>
+</resources>
